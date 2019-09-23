@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1569272484700,
+  "timestamp": 1569281107836,
   "index": "index.html",
   "assetGroups": [
     {
@@ -6224,13 +6224,13 @@
     "assets/images/themes/oneSalesforce/banner-user-default.png": "df07ceea4fa4ef00615d02594c9a902ced353648",
     "assets/images/welcome-mat/bg-info@2x.png": "fc8e90438010f67ab0179ebeae3a95e8a9550260",
     "assets/images/welcome-mat/trailhead_badge@2x.png": "c256cadf33e6d0c8a6ae5a019de998f0439dcb82",
-    "assets/styles/salesforce-lightning-design-system.css": "ac66205a64e920dca121cb58b8980f1ab4741e9b",
+    "assets/styles/salesforce-lightning-design-system.css": "98feffb61cdc9e5979fe9bd2eacf864906d8cf89",
     "assets/styles/salesforce-lightning-design-system.min.css": "7285336568b9e7fd21ad8a6b72b89823434889b1",
     "favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "index.html": "f3381c1e101ca34b558aebd68555d5397bfc05e8",
+    "index.html": "bf2f9b03daf4b18d0991d7f1b8b06f3b7b79e3c3",
     "main-es2015.e7ba5c200f8680ae001a.js": "c6178232131d7445eaa507ae050858962fb6bdaa",
     "main-es5.e7ba5c200f8680ae001a.js": "226156e77d0e140617eff591e03fb9a5badb0660",
-    "manifest.webmanifest": "c4efe32396852413558f66b11e00f6ca0e81a924",
+    "manifest.webmanifest": "bde0843cd937c9c36bb59928fba52d3659ec8ccf",
     "polyfills-es2015.fd917e7c3ed57f282ee5.js": "e2f28c3743afd2899e140ad831df9675c233c02b",
     "polyfills-es5.3aa54d3e5134f5b5b842.js": "db091f7ef692a1d3add240459a2ea20c81cd6f19",
     "runtime-es2015.24b02acc1f369d9b9f37.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
